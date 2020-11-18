@@ -1,0 +1,69 @@
+09:01:17.905 [main] INFO  c.u.f.FullGradeCurriculumApplication - Starting FullGradeCurriculumApplication on Amaris with PID 12636 (C:\Users\18655\Desktop\常驻文件\Full-Grade-Curriculum\j2ee\target\classes started by 18655 in C:\Users\18655\Desktop\常驻文件\Full-Grade-Curriculum\j2ee)
+09:01:17.910 [main] INFO  c.u.f.FullGradeCurriculumApplication - The following profiles are active: dev
+09:01:20.041 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+09:01:20.057 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+09:01:20.059 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:01:20.059 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:01:20.306 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:01:20.307 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2267 ms
+09:01:21.134 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:01:21.468 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+09:01:21.520 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+09:01:21.536 [main] INFO  c.u.f.FullGradeCurriculumApplication - Started FullGradeCurriculumApplication in 5.107 seconds (JVM running for 11.764)
+09:02:08.443 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:02:08.443 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:02:08.450 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+09:02:09.455 [http-nio-8080-exec-2] INFO  c.u.f.controller.LoginController - 发生一次用户登录，openId: ou_69ad366c9665384fe7b48cf48266e1ac
+09:02:09.547 [http-nio-8080-exec-2] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+09:23:40.974 [http-nio-8080-exec-9] ERROR c.u.f.e.GlobalException$$EnhancerBySpringCGLIB$$fb7f826 - 发生一次其他异常
+09:24:23.865 [http-nio-8080-exec-5] ERROR c.u.f.e.GlobalException$$EnhancerBySpringCGLIB$$fb7f826 - 发生一次其他异常
+09:25:24.684 [http-nio-8080-exec-8] ERROR c.u.f.e.GlobalException$$EnhancerBySpringCGLIB$$fb7f826 - 发生一次其他异常
+09:26:36.031 [http-nio-8080-exec-2] ERROR c.u.f.e.GlobalException$$EnhancerBySpringCGLIB$$fb7f826 - 发生一次其他异常
+09:27:30.300 [http-nio-8080-exec-3] ERROR c.u.f.e.GlobalException$$EnhancerBySpringCGLIB$$fb7f826 - 发生一次其他异常
+09:27:59.622 [http-nio-8080-exec-4] ERROR c.u.f.e.GlobalException$$EnhancerBySpringCGLIB$$fb7f826 - 发生一次其他异常
+09:28:55.195 [http-nio-8080-exec-9] ERROR c.u.f.e.GlobalException$$EnhancerBySpringCGLIB$$fb7f826 - 发生一次其他异常
+09:29:50.695 [http-nio-8080-exec-5] ERROR c.u.f.e.GlobalException$$EnhancerBySpringCGLIB$$fb7f826 - 发生一次其他异常
+09:31:55.151 [http-nio-8080-exec-8] INFO  c.u.f.controller.StudentController - 发生一次无权限查询个人信息
+09:33:21.097 [http-nio-8080-exec-1] ERROR c.u.f.e.GlobalException$$EnhancerBySpringCGLIB$$fb7f826 - 发生一次其他异常
+09:33:47.015 [http-nio-8080-exec-3] INFO  c.u.f.controller.LoginController - 发生一次用户登录，openId: ou_69ad366c9665384fe7b48cf48266e1ac
+09:34:02.763 [http-nio-8080-exec-4] ERROR c.u.f.e.GlobalException$$EnhancerBySpringCGLIB$$fb7f826 - 发生一次其他异常
+09:35:06.849 [http-nio-8080-exec-7] INFO  c.u.f.controller.StudentController - 用户查询了一次个人信息，openId=ou_69ad366c9665384fe7b48cf48266e1ac
+09:48:49.780 [http-nio-8080-exec-10] INFO  c.u.f.controller.StudentController - 用户修改了一次个人信息，openId=ou_69ad366c9665384fe7b48cf48266e1ac
+09:52:51.244 [main] INFO  c.u.f.FullGradeCurriculumApplication - Starting FullGradeCurriculumApplication on Amaris with PID 14484 (C:\Users\18655\Desktop\常驻文件\Full-Grade-Curriculum\j2ee\target\classes started by 18655 in C:\Users\18655\Desktop\常驻文件\Full-Grade-Curriculum\j2ee)
+09:52:51.248 [main] INFO  c.u.f.FullGradeCurriculumApplication - The following profiles are active: dev
+09:52:53.118 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+09:52:53.132 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+09:52:53.133 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:52:53.133 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:52:53.310 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:52:53.310 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1940 ms
+09:52:53.886 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:52:54.138 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+09:52:54.182 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+09:52:54.197 [main] INFO  c.u.f.FullGradeCurriculumApplication - Started FullGradeCurriculumApplication in 3.949 seconds (JVM running for 9.038)
+09:52:58.944 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:52:58.944 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:52:58.955 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 11 ms
+09:52:59.911 [http-nio-8080-exec-2] INFO  c.u.f.controller.LoginController - 发生一次用户登录，openId: ou_69ad366c9665384fe7b48cf48266e1ac
+09:52:59.992 [http-nio-8080-exec-2] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+09:58:17.182 [http-nio-8080-exec-5] INFO  c.u.f.controller.CourseController - openId=ou_69ad366c9665384fe7b48cf48266e1ac的学生查询了一次第3周所有课程信息
+10:05:13.508 [http-nio-8080-exec-9] INFO  c.u.f.controller.CourseController - openId=ou_69ad366c9665384fe7b48cf48266e1ac的学生查询了一次课程编号为2的课程详细信息
+10:45:21.671 [main] INFO  c.u.f.FullGradeCurriculumApplicationTests - Starting FullGradeCurriculumApplicationTests on Amaris with PID 5392 (started by 18655 in C:\Users\18655\Desktop\��פ�ļ�\Full-Grade-Curriculum\j2ee)
+10:45:21.672 [main] INFO  c.u.f.FullGradeCurriculumApplicationTests - The following profiles are active: dev
+10:45:24.441 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+10:45:25.383 [main] INFO  c.u.f.FullGradeCurriculumApplicationTests - Started FullGradeCurriculumApplicationTests in 4.41 seconds (JVM running for 5.976)
+10:45:25.970 [main] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+10:45:27.357 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+10:45:27.370 [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+16:37:31.781 [main] INFO  c.u.f.FullGradeCurriculumApplication - Starting FullGradeCurriculumApplication on Amaris with PID 11572 (C:\Users\18655\Desktop\常驻文件\Full-Grade-Curriculum\j2ee\target\classes started by 18655 in C:\Users\18655\Desktop\常驻文件\Full-Grade-Curriculum\j2ee)
+16:37:31.784 [main] INFO  c.u.f.FullGradeCurriculumApplication - The following profiles are active: dev
+16:37:33.573 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+16:37:33.585 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:37:33.586 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:37:33.587 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+16:37:33.733 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:37:33.734 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1862 ms
+16:37:34.234 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+16:37:34.459 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+16:37:34.484 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+16:37:34.495 [main] INFO  c.u.f.FullGradeCurriculumApplication - Started FullGradeCurriculumApplication in 3.861 seconds (JVM running for 9.244)
